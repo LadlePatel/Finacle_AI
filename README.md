@@ -26,8 +26,6 @@ cd Finacle_AI
 
 2. Create a virtual environment:
 ```bash
-pyenv install 3.11.13
-pyenv shell 3.11.13
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 python --version
