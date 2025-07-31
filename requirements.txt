@@ -1,9 +1,13 @@
 langchain
 crewai
-crewai-tools
+git+https://github.com/joaomdmoura/crewai-tools.git
 openai
 langchain-community
 python-dotenv
 PyPDF2
 streamlit>=1.30.0
 streamlit-extras
+tiktoken
+streamlit-extras
+pydantic>=1.10,<2.0
+onnxruntime
