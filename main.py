@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 #from langchain_community.chat_models import ChatOpenAI
 from langchain_openai import ChatOpenAI
 from crewai import Agent, Task, Crew, Process
-from crewai_tools.tools.pdf_search_tool import PDFSearchTool
+from crewai_tools import PDFSearchTool
 import streamlit as st
 
 load_dotenv()
