@@ -1,6 +1,7 @@
 import os
 from dotenv import load_dotenv
-from langchain_community.chat_models import ChatOpenAI
+#from langchain_community.chat_models import ChatOpenAI
+from langchain_openai import ChatOpenAI
 from crewai import Agent, Task, Crew, Process
 from crewai_tools.pdf_search_tool import PDFSearchTool
 import streamlit as st
