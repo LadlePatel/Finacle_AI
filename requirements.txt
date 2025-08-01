@@ -1,6 +1,6 @@
 langchain
 crewai
-crewai_tools
+crewai-tools
 openai
 langchain-community
 python-dotenv
