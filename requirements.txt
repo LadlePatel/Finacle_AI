@@ -1,6 +1,7 @@
 langchain
 crewai
 git+https://github.com/joaomdmoura/crewai-tools.git
+git+https://github.com/embedchain/embedchain.git
 openai
 langchain-community
 python-dotenv
