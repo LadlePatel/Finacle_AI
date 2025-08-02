@@ -10,4 +10,3 @@ langchain_community
 streamlit>=1.30.0
 streamlit-extras
 Pillow
-onnxruntime
